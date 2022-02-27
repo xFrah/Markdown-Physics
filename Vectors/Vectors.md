@@ -2,10 +2,10 @@
 
 ---
 
-> ###Scalar quantity:  
+> ### Scalar quantity:  
 > Quantity involving only magnitude.
 
-> ###Vector:  
+> ### Vector:  
 > Quantity involving magnitude and direction.  
  The magnitude of a vector is its strength.  
  The length of a vector is its magnitude.
@@ -13,7 +13,7 @@
 >![](vectors1.png)
 ---
 
-##Adding vectors:  
+## Adding vectors:  
 There are two methods of adding Vectors:
 
 - >"punta-coda" method:  
@@ -34,7 +34,7 @@ The math behind the operation on vectors follow these two rules:
 
 ---
 
-##Subtracting vectors:  
+## Subtracting vectors:  
 
 Subtracting a vector from itself just equals 0 :  
 v1 - v1 = 0
@@ -44,9 +44,9 @@ Subtracting a vectors works like adding vectors.
 
 ---
 
-##Components of Vectors:  
+## Components of Vectors:  
 
-> ###The real deal:  
+> ### The real deal:  
 >a = vector  
 θ = angle of the components  
 ax, ay = x component, y component
@@ -59,28 +59,28 @@ ax, ay = x component, y component
 
 No explanations needed for this.
 
-###Formula:  
+### Formula:  
 ![](vectors9.png)
 
-> ###Notation:  
+> ### Notation:  
 > _(ax, ay)_ - Component Notation  
  _(a, θ)_ - Magnitude-Angle notation
 
 ---
 
-###Adding vectors:  
+### Adding vectors:  
 ![](vectors11.png)
 
-###wtf is this?  
+### wtf is this?  
 ![](vectors12.png)
 
-###Multiply by a scalar:  
+### Multiply by a scalar:  
 You just multiply the vector.  
 2V means that the magnitude has doubled.
 
 ---
 
-##Scalar product:  
+## Scalar product:  
 
 Definition taken from [this video](https://www.youtube.com/watch?v=UiV4UQRAUeo):  
 The scalar product of two vectors, gives back a scalar value.
@@ -93,7 +93,7 @@ The scalar product of two vectors, gives back a scalar value.
 
 ![](img.png)
 
-###Properties:  
+### Properties:  
 
 - It follows commutative law, meaning that we can swap vector a and b and nothing will change.
 ![](vectors16.png)
@@ -102,7 +102,7 @@ The scalar product of two vectors, gives back a scalar value.
 
 ---
 
-##Vector product  
+## Vector product  
 > Magnitude of result:
 > ![](vectors19.png)
 > 
@@ -111,13 +111,13 @@ The scalar product of two vectors, gives back a scalar value.
 
 ---
 
-##Unit Vector:  
+## Unit Vector:  
 
 >A unit vector is a vector with a magnitude of 1 and a specific direction.
 > ![](vectors10.png)
 
-###Unit vector notation for Scalar Product:  
+### Unit vector notation for Scalar Product:  
 ![](vectors17.png)
 
-###Unit vector notation for Vector Product:  
+### Unit vector notation for Vector Product:  
 ![](vectors18.png)

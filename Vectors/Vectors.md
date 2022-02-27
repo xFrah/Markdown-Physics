@@ -14,7 +14,7 @@
 ---
 
 ## Adding vectors:  
-There are two methods of adding Vectors:
+There are two methods of adding Vectors:  
 
 - >"punta-coda" method:  
   >
@@ -25,11 +25,11 @@ There are two methods of adding Vectors:
 
 The math behind the operation on vectors follow these two rules:
 
-- Commutative law:
+- Commutative law:  
 ![](vectors4.png)
 
-- Distributive law
-![](vectors5.png)
+- Distributive law  
+![](vectors5.png)  
 ![](vectors6.png)
 
 ---
@@ -39,7 +39,7 @@ The math behind the operation on vectors follow these two rules:
 Subtracting a vector from itself just equals 0 :  
 v1 - v1 = 0
 
-A vector with the negative sign is just going in the opposite direction.
+A vector with the negative sign is just going in the opposite direction.  
 Subtracting a vectors works like adding vectors.
 
 ---
@@ -95,25 +95,25 @@ The scalar product of two vectors, gives back a scalar value.
 
 ### Properties:  
 
-- It follows commutative law, meaning that we can swap vector a and b and nothing will change.
-![](vectors16.png)
+- It follows commutative law, meaning that we can swap vector a and b and nothing will change.  
+![](vectors16.png)  
 - It follows distributivity law, meaning that I don't know what it means.
 ![](vectors15.png)
 
 ---
 
 ## Vector product  
-> Magnitude of result:
+> Magnitude of result:  
 > ![](vectors19.png)
 > 
-> Direction of result:
+> Direction of result:  
 > ![](vectors20.png)
 
 ---
 
 ## Unit Vector:  
 
->A unit vector is a vector with a magnitude of 1 and a specific direction.
+>A unit vector is a vector with a magnitude of 1 and a specific direction.  
 > ![](vectors10.png)
 
 ### Unit vector notation for Scalar Product:  

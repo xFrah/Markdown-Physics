@@ -27,7 +27,7 @@
 
 ---
 
-##Gravitational Force:
+## Gravitational Force:
 According to Newton's IInd Law(`F = m•a`) we can describe the gravitational force as `F = m•g`.  
 - g = gravitational acceleration(`9,81 m/s²`);  
 - m = mass.
@@ -37,7 +37,7 @@ We can also call this **weight**.
 > There is also something about weight, that I'm not getting, it appears to be the same thing.
 > ![](weight.png)
 
-##Normal Force:
+## Normal Force:
 Force that pushes the surface of an object away from another one's.  
 - The direction is perpendicular to the surface;
 - The magnitude is equal to the force that pushes the object onto the surface.
@@ -46,17 +46,17 @@ Force that pushes the surface of an object away from another one's.
 
 ![](normal.png) ![](normal2.png)
 
-##Friction:
+## Friction:
 Force that opposes motion along two surfaces in contact.  
 
 ![](friction1.png)
 
-> ###Properties:
+> ### Properties:
 > 1) Body doesn't move → `ƒs = -F`;
 > 2) `ƒs(max) = μs • Fn` (μs = static friction coeff.);
 > 3) Body moves → `ƒk = μk • Fn` (μk = kinetic friction coeff.);
 
-##Tension:
+## Tension:
 Force applied by long thing stretched objects, such as wires or ropes.  
 **At each end are applied forces that are equal in magnitude.**
 

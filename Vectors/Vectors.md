@@ -23,7 +23,7 @@ There are two methods of adding Vectors:
   > 
   > ![](vectors3.png)
 
-The math behind the operation on vectors follow these two rules:
+The math behind the operations on vectors follows these two rules:
 
 - Commutative law:  
 ![](vectors4.png)
@@ -68,6 +68,12 @@ No explanations needed for this.
 
 ---
 
+## Unit Vector:  
+
+>A unit vector is a vector with a magnitude of 1 and a specific direction.  
+> ![](vectors10.png)
+
+
 ### Adding vectors:  
 ![](vectors11.png)
 
@@ -107,17 +113,58 @@ The scalar product of two vectors, gives back a scalar value.
 > ![](vectors19.png)
 > 
 > Direction of result:  
-> ![](vectors20.png)
+> Perpendicular to the plain that contains the two vectors
 
 ---
-
-## Unit Vector:  
-
->A unit vector is a vector with a magnitude of 1 and a specific direction.  
-> ![](vectors10.png)
 
 ### Unit vector notation for Scalar Product:  
 ![](vectors17.png)
 
 ### Unit vector notation for Vector Product:  
 ![](vectors18.png)
+
+---
+
+# 3D VECTORS
+
+---
+## Position Vector:
+
+![](3dv1.PNG)
+
+Basically we consider i, j and k as unit vectors, and to define a vector, we multiply numbers to them, thus modifying their magnitude.
+
+### To add vectors using this notation, we just:  
+![](3dv2.PNG)
+
+> So the position vector is just us multiplying the unit vectors on the 3 axes by a scalar number, making the magnitude bigger(or smaller).
+
+---
+
+## Displacement Vector:
+
+> I's a vector resulting from the difference between two vectors.  
+> ![](3dv4.PNG)
+
+Basically we just subtract the scalar values to their corresponding value on the other vector:
+
+![](3dv3.PNG)
+
+> Graphic representation of the resulting vector:
+> ![](3dv5.PNG)
+
+---
+
+## Average Velocity:
+
+---
+
+## Instantaneous Velocity:
+
+---
+
+## Average Acceleration:
+
+---
+
+## Instantaneous Acceleration:

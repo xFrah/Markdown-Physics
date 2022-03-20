@@ -26,22 +26,22 @@ If you step in front of a full speed truck, it will do work on you, and it will 
 
 ![](energy.png)
 
->### Important shit:
-> An object is moved through a wire by a constant force(constant acc.), and has a displacement d.  
-> Only Fx does work, because the object can't move vertically.
-> 
-> By using the formula:  
-> `v² = v₀ + 2a•d`  
-> and getting the acceleration from the force:  
-> `a = F/m` → `v² = v₀² + (2•F•d)/m`  
-> we obtain:  
-> `1/2 mv² - 1/2 mv₀² = F • d`
-> 
-> And we can notice that `1/2 mv²` is exactly the formula of kinetic energy, so `1/2 mv² - 1/2 mv₀²` is basically a difference in kinetic energy, the definition of **Work**.
-> 
-> `W = F • d` = Force • Displacement
-> 
-> ![](energy2.png)
+### Demonstration for Work formula:
+An object is moved through a wire by a constant force(constant acc.), and has a displacement d.  
+Only Fx does work, because the object can't move vertically.
+
+By using the formula:  
+`v² = v₀ + 2a•d`  
+and getting the acceleration from the force:  
+`a = F/m` → `v² = v₀² + (2•F•d)/m`  
+we obtain:  
+`1/2 mv² - 1/2 mv₀² = F • d`
+ 
+And we can notice that `1/2 mv²` is exactly the formula of kinetic energy, so `1/2 mv² - 1/2 mv₀²` is basically a difference in kinetic energy, the definition of **Work**.
+ 
+`W = F • d` = Force • Displacement
+
+![](energy2.png)
 
 ### Work done by a gravitational force:
 

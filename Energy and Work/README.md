@@ -88,7 +88,7 @@ cosa cazzo devo derivare me lo vuoi spiegare?
 When we throw an object in the air, the gravitational force does negative work on the object, slowing it down until it stops.  
 But if the work is negative, then the Force is transferring the kinetic energy to somewhere else, in this case the gravitational potential energy of the object, or Earth system.  
 ![](energy5.png)  
-Then the object begins to fall again, the work is positive and the gravitational force is transferring the energy from the potential energy back to the object.
+Then the object begins to fall again, the work is positive and the gravitational force is transferring the energy from the potential energy back to the object.  
 ![](energy6.png)
 
 `∆U = -W` → `∆U = -∆K`
